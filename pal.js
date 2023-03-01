@@ -1,10 +1,7 @@
 /**
-
-Supplementary protection certificate calculator
-
-Author Vincas Batulevičius (  vincasbat@gmail.com  )
-
-*/
+ *Supplementary protection certificate calculator
+ * @author Vincas Batulevičius (  vincasbat@gmail.com  )
+ */
 
 
 export default class Pal extends HTMLElement {
