@@ -1,5 +1,5 @@
 /**
- *Supplementary protection certificate calculator
+ *Supplementary protection certificate calculator - PAL skaičiuoklė
  * @author Vincas Batulevičius (  vincasbat@gmail.com  )
  */
 
